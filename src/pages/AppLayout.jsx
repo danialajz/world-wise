@@ -1,11 +1,15 @@
 import React from "react";
-import AppNav from "../components/AppNav";
-
+// import AppNav from "../components/AppNav";
+import SideBar from "../components/SideBar";
+import styles from "./AppLayout.module.css";
+import Map from "../components/Map";
 function AppLayout() {
   return (
-    <div>
-      <AppNav />
-      <p>App</p>
+    <div className={styles.app}>
+      {/* <AppNav /> */}
+      <SideBar />
+      <Map />
+      {/* <p>App</p> */}
     </div>
   );
 }
