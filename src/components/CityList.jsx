@@ -5,7 +5,7 @@ import CityItem from "./CityItem";
 import Message from "./Message";
 function CityList({ cities, isLoading }) {
   if (isLoading) return <Spinner />;
-  if (!cities.lenght) return <Message />;
+  if (!cities.length) return <Message message=" Add Your First City to App" />;
   return (
     <ul className={styles.cityList}>
       {cities.map((city) => (
