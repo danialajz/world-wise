@@ -6,6 +6,7 @@ import Message from "./Message";
 import { useCities } from "../contexts/CitiesContext";
 function CityList() {
   const { cities, isLoading } = useCities();
+  // const {getc} = u
   if (isLoading) return <Spinner />;
   if (!cities.length) return <Message message=" Add Your First City to App" />;
   return (
