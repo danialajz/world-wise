@@ -10,7 +10,7 @@
         "lat": 38.727881642324164,
         "lng": -9.140900099907554
       },
-      "id": 73930386
+      "id": "73930386"
     },
     {
       "cityName": "Madrid",
@@ -22,7 +22,7 @@
         "lat": 40.46635901755316,
         "lng": -3.7133789062500004
       },
-      "id": 17806752
+      "id": "17806752"
     },
     {
       "cityName": "Berlin",
@@ -34,7 +34,163 @@
         "lat": 52.53586782505711,
         "lng": 13.376933665713324
       },
-      "id": 98443193
+      "id": "98443193"
+    },
+    {
+      "id": "c66a",
+      "cityName": "Coalville",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-11-03T08:19:09.501Z",
+      "notes": "",
+      "position": {
+        "lat": 52.72298552457069,
+        "lng": -1.34033203125
+      }
+    },
+    {
+      "id": "dcb0",
+      "cityName": "Lanuejols",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-11-03T08:20:23.928Z",
+      "notes": "",
+      "position": {
+        "lat": 44.10336537791152,
+        "lng": 3.3837890625000004
+      }
+    },
+    {
+      "id": "fd4f",
+      "cityName": "Girgols",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-11-03T08:21:49.689Z",
+      "notes": "",
+      "position": {
+        "lat": 45.058001435398296,
+        "lng": 2.5268554687500004
+      }
+    },
+    {
+      "id": "6ae1",
+      "cityName": "Avesta",
+      "country": "Sweden",
+      "emoji": "🇸🇪",
+      "date": "2024-11-03T08:21:55.514Z",
+      "notes": "hi",
+      "position": {
+        "lat": 60.130563616914216,
+        "lng": 16.391601562500004
+      }
+    },
+    {
+      "id": "5cf2",
+      "cityName": "Saltvik",
+      "country": "Aland Islands",
+      "emoji": "🇦🇽",
+      "date": "2024-11-03T08:24:26.239Z",
+      "notes": "",
+      "position": {
+        "lat": 60.23981116999893,
+        "lng": 20.017089843750004
+      }
+    },
+    {
+      "id": "08b6",
+      "cityName": "Oppdal",
+      "country": "Norway",
+      "emoji": "🇳🇴",
+      "date": "2024-11-03T08:24:26.239Z",
+      "notes": "",
+      "position": {
+        "lat": 62.451405884537564,
+        "lng": 9.645996093750002
+      }
+    },
+    {
+      "id": "89e7",
+      "cityName": "Oppdal",
+      "country": "Norway",
+      "emoji": "🇳🇴",
+      "date": "2024-11-03T08:24:26.239Z",
+      "notes": "",
+      "position": {
+        "lat": 62.451405884537564,
+        "lng": 9.645996093750002
+      }
+    },
+    {
+      "id": "b02b",
+      "cityName": "Argeles",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-11-03T08:26:24.124Z",
+      "notes": "1dsa",
+      "position": {
+        "lat": 42.553080288955826,
+        "lng": 3.0102539062500004
+      }
+    },
+    {
+      "id": "94aa",
+      "cityName": "Noviercas",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-11-03T08:26:30.624Z",
+      "notes": "da",
+      "position": {
+        "lat": 41.64007838467894,
+        "lng": -2.0214843750000004
+      }
+    },
+    {
+      "id": "9ee3",
+      "cityName": "La Almolda",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-11-03T08:26:43.622Z",
+      "notes": "1dD",
+      "position": {
+        "lat": 41.50857729743935,
+        "lng": -0.30761718750000006
+      }
+    },
+    {
+      "id": "dc44",
+      "cityName": "Parleboscq",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-11-03T08:27:47.045Z",
+      "notes": "12",
+      "position": {
+        "lat": 43.96119063892027,
+        "lng": 0.0439453125
+      }
+    },
+    {
+      "id": "3e47",
+      "cityName": "La Mothe-Saint-Heray",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-11-03T08:28:54.525Z",
+      "notes": "44",
+      "position": {
+        "lat": 46.34692761055676,
+        "lng": -0.10986328125000001
+      }
+    },
+    {
+      "id": "90b8",
+      "cityName": "Rozieres-sur-Crise",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-11-03T08:29:08.311Z",
+      "notes": "DA",
+      "position": {
+        "lat": 49.31079887964633,
+        "lng": 3.3618164062500004
+      }
     }
   ]
 }
