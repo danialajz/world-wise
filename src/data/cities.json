@@ -37,42 +37,6 @@
       "id": "98443193"
     },
     {
-      "id": "fd4f",
-      "cityName": "Girgols",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2024-11-03T08:21:49.689Z",
-      "notes": "",
-      "position": {
-        "lat": 45.058001435398296,
-        "lng": 2.5268554687500004
-      }
-    },
-    {
-      "id": "6ae1",
-      "cityName": "Avesta",
-      "country": "Sweden",
-      "emoji": "🇸🇪",
-      "date": "2024-11-03T08:21:55.514Z",
-      "notes": "hi",
-      "position": {
-        "lat": 60.130563616914216,
-        "lng": 16.391601562500004
-      }
-    },
-    {
-      "id": "5cf2",
-      "cityName": "Saltvik",
-      "country": "Aland Islands",
-      "emoji": "🇦🇽",
-      "date": "2024-11-03T08:24:26.239Z",
-      "notes": "",
-      "position": {
-        "lat": 60.23981116999893,
-        "lng": 20.017089843750004
-      }
-    },
-    {
       "id": "1e62",
       "cityName": "Boussenac",
       "country": "France",
@@ -94,6 +58,18 @@
       "position": {
         "lat": 42.21224516288584,
         "lng": -3.1640625000000004
+      }
+    },
+    {
+      "id": "2dda",
+      "cityName": "Malpartida",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-11-03T12:38:56.752Z",
+      "notes": "hi",
+      "position": {
+        "lat": 40.763901280945866,
+        "lng": -5.229492187500001
       }
     }
   ]
